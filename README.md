@@ -1,5 +1,3 @@
-https://github.com/00000emily00000/finalC
-
 =題目:打殭屍=
 級別:112   <br>
 班級:資工一乙    <br>
