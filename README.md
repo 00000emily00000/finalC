@@ -38,7 +38,7 @@
 ### - 規劃
 1. 流程圖 -Ch1
 2. 善用中斷點監看 -Ch2
-3. 多函式的應用 - Chap7
+3. 多函式的應用 -Ch7
     
 ### - 副函式setup
 1. 自訂/呼叫函式 -Ch4,7
@@ -55,7 +55,7 @@
 ### - 副函式input
 1.switch case -Ch5
 2. 多重選擇(if else) -Ch5
-3. 跳離程式(break) - Chap5
+3. 跳離程式(break) -Ch5
 
 ### - 副函式logic
 1. 基本變數設定(int const) -Ch2
