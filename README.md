@@ -54,8 +54,8 @@
 
 ### - 副函式input
 1.switch case -Ch5
-5. 多重選擇(if else) -Ch5
-4. 跳離程式(break) - Chap5
+2. 多重選擇(if else) -Ch5
+3. 跳離程式(break) - Chap5
 
 ### - 副函式logic
 1. 基本變數設定(int const) -Chap2
