@@ -58,23 +58,23 @@
 3. 跳離程式(break) - Chap5
 
 ### - 副函式logic
-1. 基本變數設定(int const) -Chap2
+1. 基本變數設定(int const) -Ch2
 2. switch case -Ch5
 3. 多重選擇(if else) -Ch5
-4. 跳離程式(break) - Chap5
-5. 判斷(==, >=, !=, &&) - Chap4
+4. 跳離程式(break) -Ch5
+5. 判斷(==, >=, !=, &&) -Ch4
  
 ### - 遊戲主體
-1. 前置處理器 - Chap7
+1. 前置處理器 -Ch7
 2. 標頭檔設置 -Ch7
-3. 基本變數設定(int const) -Chap2
-4. 輸入設定(enum) -Chap9
-5. 符號常數的宣告 - Chap7
-6. 一維陣列 - Chap6
+3. 基本變數設定(int const) -Ch2
+4. 輸入設定(enum) -Ch9
+5. 符號常數的宣告 -Ch7
+6. 一維陣列 -Ch6
 7. 檔案的開啟與編寫 -Ch10
-8. 迴圈(for, do while) - Chap4,6
-9. 多重選擇(if else) - Chap5
-10. 自訂/呼叫函式 - Chap4,7
+8. 迴圈(for, do while) -Ch4,6
+9. 多重選擇(if else) -Ch5
+10. 自訂/呼叫函式 -Ch4,7
 
 ## 開發時間
 
